@@ -1,14 +1,15 @@
-The Deep Sea
+**The Deep Sea**
 
 A 3D underwater scene developed using Modern OpenGL for the Computer Graphics course.
 
-Overview
+**Overview**
 
 The Deep Sea is a 3D computer graphics project that simulates an underwater environment using Modern OpenGL. The project focuses on rendering realistic ocean scenery with lighting effects, animated objects, and shader-based visual effects.
 
 The objective is to demonstrate the application of computer graphics concepts, including transformations, lighting models, shaders, camera control, and hierarchical object modeling.
 
-Features
+**Features**
+
 3D underwater environment
 Dynamic camera movement
 Real-time lighting (Phong Lighting)
@@ -17,7 +18,8 @@ Animated fish and sea objects
 Water wave animation
 Interactive keyboard and mouse controls
 Textured 3D models
-Technologies
+**Technologies**
+
 C++
 Modern OpenGL
 GLFW
@@ -26,7 +28,8 @@ GLSL
 GLM
 FreeCAD (3D Modeling)
 CMake
-Graphics Concepts
+
+**Graphics Concepts**
 
 This project demonstrates several core computer graphics concepts:
 
@@ -39,14 +42,4 @@ Texture Mapping
 Object Animation
 Scene Graph
 Keyboard & Mouse Interaction
-git clone https://github.com/074p/The-deep-blue-sea
 
-cd The-Deep-Sea
-
-mkdir build
-
-cd build
-
-cmake ..
-
-make
