@@ -39,7 +39,7 @@ Texture Mapping
 Object Animation
 Scene Graph
 Keyboard & Mouse Interaction
-git clone https://github.com/yourusername/The-Deep-Sea.git
+git clone https://github.com/074p/The-deep-blue-sea
 
 cd The-Deep-Sea
 
