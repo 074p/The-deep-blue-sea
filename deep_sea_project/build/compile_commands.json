@@ -1,0 +1,68 @@
+[
+{
+  "directory": "D:/do_hoa/deep_sea_project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TheDeepSea.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TheDeepSea.dir\\src\\main.cpp.obj -c D:\\do_hoa\\deep_sea_project\\src\\main.cpp",
+  "file": "D:/do_hoa/deep_sea_project/src/main.cpp",
+  "output": "CMakeFiles/TheDeepSea.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/do_hoa/deep_sea_project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TheDeepSea.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TheDeepSea.dir\\src\\Camera.cpp.obj -c D:\\do_hoa\\deep_sea_project\\src\\Camera.cpp",
+  "file": "D:/do_hoa/deep_sea_project/src/Camera.cpp",
+  "output": "CMakeFiles/TheDeepSea.dir/src/Camera.cpp.obj"
+},
+{
+  "directory": "D:/do_hoa/deep_sea_project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TheDeepSea.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TheDeepSea.dir\\src\\STLLoader.cpp.obj -c D:\\do_hoa\\deep_sea_project\\src\\STLLoader.cpp",
+  "file": "D:/do_hoa/deep_sea_project/src/STLLoader.cpp",
+  "output": "CMakeFiles/TheDeepSea.dir/src/STLLoader.cpp.obj"
+},
+{
+  "directory": "D:/do_hoa/deep_sea_project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TheDeepSea.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TheDeepSea.dir\\src\\Shader.cpp.obj -c D:\\do_hoa\\deep_sea_project\\src\\Shader.cpp",
+  "file": "D:/do_hoa/deep_sea_project/src/Shader.cpp",
+  "output": "CMakeFiles/TheDeepSea.dir/src/Shader.cpp.obj"
+},
+{
+  "directory": "D:/do_hoa/deep_sea_project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TheDeepSea.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TheDeepSea.dir\\src\\Texture.cpp.obj -c D:\\do_hoa\\deep_sea_project\\src\\Texture.cpp",
+  "file": "D:/do_hoa/deep_sea_project/src/Texture.cpp",
+  "output": "CMakeFiles/TheDeepSea.dir/src/Texture.cpp.obj"
+},
+{
+  "directory": "D:/do_hoa/deep_sea_project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/TheDeepSea.dir/includes_C.rsp -g -o CMakeFiles\\TheDeepSea.dir\\extern\\glad\\src\\glad.c.obj -c D:\\do_hoa\\deep_sea_project\\extern\\glad\\src\\glad.c",
+  "file": "D:/do_hoa/deep_sea_project/extern/glad/src/glad.c",
+  "output": "CMakeFiles/TheDeepSea.dir/extern/glad/src/glad.c.obj"
+},
+{
+  "directory": "D:/do_hoa/deep_sea_project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TheDeepSea.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TheDeepSea.dir\\src\\graphics\\Material.cpp.obj -c D:\\do_hoa\\deep_sea_project\\src\\graphics\\Material.cpp",
+  "file": "D:/do_hoa/deep_sea_project/src/graphics/Material.cpp",
+  "output": "CMakeFiles/TheDeepSea.dir/src/graphics/Material.cpp.obj"
+},
+{
+  "directory": "D:/do_hoa/deep_sea_project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TheDeepSea.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TheDeepSea.dir\\src\\graphics\\Light.cpp.obj -c D:\\do_hoa\\deep_sea_project\\src\\graphics\\Light.cpp",
+  "file": "D:/do_hoa/deep_sea_project/src/graphics/Light.cpp",
+  "output": "CMakeFiles/TheDeepSea.dir/src/graphics/Light.cpp.obj"
+},
+{
+  "directory": "D:/do_hoa/deep_sea_project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TheDeepSea.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TheDeepSea.dir\\src\\graphics\\ShadowMap.cpp.obj -c D:\\do_hoa\\deep_sea_project\\src\\graphics\\ShadowMap.cpp",
+  "file": "D:/do_hoa/deep_sea_project/src/graphics/ShadowMap.cpp",
+  "output": "CMakeFiles/TheDeepSea.dir/src/graphics/ShadowMap.cpp.obj"
+},
+{
+  "directory": "D:/do_hoa/deep_sea_project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TheDeepSea.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TheDeepSea.dir\\src\\postprocess\\PostProcess.cpp.obj -c D:\\do_hoa\\deep_sea_project\\src\\postprocess\\PostProcess.cpp",
+  "file": "D:/do_hoa/deep_sea_project/src/postprocess/PostProcess.cpp",
+  "output": "CMakeFiles/TheDeepSea.dir/src/postprocess/PostProcess.cpp.obj"
+},
+{
+  "directory": "D:/do_hoa/deep_sea_project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TheDeepSea.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TheDeepSea.dir\\src\\physics\\Collision.cpp.obj -c D:\\do_hoa\\deep_sea_project\\src\\physics\\Collision.cpp",
+  "file": "D:/do_hoa/deep_sea_project/src/physics/Collision.cpp",
+  "output": "CMakeFiles/TheDeepSea.dir/src/physics/Collision.cpp.obj"
+}
+]
